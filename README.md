@@ -30,6 +30,9 @@ This repo is an example of using decisions table (drools) in spring boot project
   npm install
   npm start
 
+- Search in "TEST RULES" tab:
+  typing: "doctorLevel=Junior" then click search button to see the results.
+
 ## Explanation
 
 #### Drools Dependencies

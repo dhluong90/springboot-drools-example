@@ -71,7 +71,7 @@ const OreoRulesScreen = () => {
         <Stack spacing={8}>
           <TextField
             variant="standard"
-            label="Search Parameters"
+            label="Search Parameters: doctorLevel=[Junior, Senior, Expert]&gender=[MALE,FEMALE]&specialtyID=[1,2]&hospitalID=[1,2]"
             value={parameters}
             onChange={onTextChange}
           />
@@ -88,7 +88,7 @@ const OreoRulesScreen = () => {
 
   return (
     <React.Fragment>
-      <h1>Oreo Rules Demo</h1>
+      <h1>Spring Drools Decision Table Demo</h1>
       <Container maxWidth="lg">
         <BasicTabs
           tab1Name="Doctors Data Repo"
