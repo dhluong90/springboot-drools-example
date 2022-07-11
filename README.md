@@ -2,7 +2,7 @@
 
 ## Why is there this repo
 
-This repo is an example of using decisions table (drools) in spring boot project.
+This repo is rule engine decision table example using drools in spring boot project.
 
 ## Technical Stack
 
